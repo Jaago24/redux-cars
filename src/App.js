@@ -6,7 +6,6 @@ import './styles.css';
 import 'bulma/css/bulma.css'
 
 
-
 function App() {
   return (
     <div>
